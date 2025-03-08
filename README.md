@@ -4,7 +4,7 @@ and graphical rendering.
  - It helped me understand:  Fundamental Python programming concepts. 
  - Working with graphical libraries and rendering visual outputs.
  - Building interactive applications with user input validation.
- - *** Achieved 70.00 marks for these  assessments.**
+ - **Achieved 70.00 marks for these  assessments.**
 
 ##  Window Pattern Generator 
 This project is a Python application that generates dynamic window patterns based on user input.
